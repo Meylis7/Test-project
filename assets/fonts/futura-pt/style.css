@@ -1,0 +1,20 @@
+    @font-face {
+        font-family: 'Futura PT Book';
+        font-style: normal;
+        font-weight: normal;
+        src: local('Futura PT Book'), url('FuturaCyrillicBook.woff') format('woff');
+    }
+
+    @font-face {
+        font-family: 'Futura PT Medium';
+        font-style: normal;
+        font-weight: normal;
+        src: local('Futura PT Medium'), url('FuturaCyrillicMedium.woff') format('woff');
+    }
+
+    @font-face {
+        font-family: 'Futura PT Bold';
+        font-style: normal;
+        font-weight: normal;
+        src: local('Futura PT Bold'), url('FuturaCyrillicBold.woff') format('woff');
+    }
